@@ -7,7 +7,7 @@ I have a theory I intend to explore.
 
 These "Freeze Dryers" ($$$). that people are buying, are really a "Class" of Dehydrators; a class that does NOT use HEAT to dehydrate.
 
-A good example is, in my younger days, when we use to help Mum with the laundry (in the winter). Back in my generation, we use to use a clothesline, and we use to hang laundry out to dry. In the (very) cold weather, the laundry use to freeze to the clothes line. We sometimes needed to pry the clothes off the line because they were frozen to the clothes line. They were dry, but they were as ridged as cardboard.
+A good example is: In my younger days, when we use to help Mum with the laundry (in the winter). Back in my generation, we use to use a clothesline, and we use to hang laundry out to dry. In the (very) cold weather, the laundry use to freeze to the clothes line. We sometimes needed to pry the clothes off the line because they were frozen to the clothes line. They were dry, but they were as ridged as cardboard.
 
 As an Engineer, I know a lot about what was happening.
 /
