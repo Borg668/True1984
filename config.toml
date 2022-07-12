@@ -1,0 +1,4 @@
+baseURL = "https://true1984.com"
+languageCode = "en-us"
+title = "My New Hugo Sit"
+theme = "mainroad"
