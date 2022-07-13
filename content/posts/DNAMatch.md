@@ -6,5 +6,5 @@ draft: false
         John O'Brien                   Mary McDonell
 
 
-Edward O'Brien   Mary Stapleton  William Tobin   Ellen O'Brien
+Edward O'Brien   Mary Stapleton          William Tobin   Ellen O'Brien
 
