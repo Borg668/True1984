@@ -4,9 +4,11 @@ date: 2022-07-12T21:11:36-04:00
 draft: false
 ---
 <html>
-<center>        John O'Brien                   Mary McDonell  </center>
+<centered>
+       John O'Brien                   Mary McDonell 
+ </centered>      
 
 
-Edward O'Brien   Mary Stapleton          William Tobin   Ellen O'Brien
+<centered>Edward O'Brien   Mary Stapleton</centered>         <centered>William Tobin   Ellen O'Brien</centered>
 
 </html>
