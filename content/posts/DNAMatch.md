@@ -6,7 +6,7 @@ draft: false
 <html>
 
        John O'Brien                   Mary McDonell 
-  <br>     
+      
 Edward O'Brien   Mary Stapleton       William Tobin  Ellen O'Brien
 
 </html>
