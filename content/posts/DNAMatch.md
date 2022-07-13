@@ -6,9 +6,7 @@ draft: false
 <html>
 <centered>
        John O'Brien                   Mary McDonell 
- </centered>      
-
-
-<centered>Edward O'Brien   Mary Stapleton</centered>         <centered>William Tobin   Ellen O'Brien</centered>
+ </centered> <br>     
+<centered>Edward O'Brien   Mary Stapleton</centered>         <centered>William Tobin   Ellen O'Brien</centered><br>
 
 </html>
