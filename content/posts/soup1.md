@@ -1,9 +1,9 @@
 ---
-title: "Soup1"
+title: "Rainbow Lentil Soup"
 date: 2022-06-14T09:21:17-04:00
 draft: false
 ---
-Rainbow Lentil Soup
+<html>
 <hr>
 - 1 Quart Glass Jar
 - Two Large Bouillion Cubes
@@ -29,6 +29,8 @@ In plastic Baggie:
 1 Can (15 oz.) Crushed Tomatoes
 
 1 Quart Water
+
+</html>
 
 
 
