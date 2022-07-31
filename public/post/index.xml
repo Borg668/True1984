@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Building a More Perfect World!</title>
-    <link>https://www.true1984.com/</link>
-    <description>Recent content on Building a More Perfect World!</description>
+    <title>Posts on Building a More Perfect World!</title>
+    <link>https://www.true1984.com/post/</link>
+    <description>Recent content in Posts on Building a More Perfect World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Jul 2022 12:14:17 -0400</lastBuildDate>
     
-	<atom:link href="https://www.true1984.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.true1984.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
