@@ -1,5 +1,5 @@
 ---
-title: "Can Socialism and Capatalish Co-Exist?"
+title: "Can Socialism and Capatalism Co-Exist?"
 date: 2022-07-31T12:14:17-04:00
 draft: false
 ---
