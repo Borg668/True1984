@@ -13,15 +13,14 @@ able to survive on their own? You won't always be there to give them guidance (o
 when things go wrong)
 
 
-Hillary may have been right when she said "It takes a Villiage to raise a child"
+Hillary may have been right when she said "It takes a Villiage to raise a child"  
 
-Mankind sent astronauts to the Moon! I think we should be able to develop a "Cradle to Grave" mindset!
+Mankind sent astronauts to the Moon! I think we should be able to develop a "Cradle to Grave" mindset!  
 
+To start off, we need a Basic Gaurenteed Income for those that need it.  
 
-To start off, we need a Basic Gaurenteed Income for those that need it.
+To start the program right, EVERYONE should pay Taxes!  
+These taxes will be labeled BIT (Basic Income Tax) and GAT   (Graduated Income Tax).  
 
-To start the program right, EVERYONE should pay Taxes!
-These taxes will be labeled BIT (Basic Income Tax) and GAT (Graduated Income Tax).
-
-GAT should be from $0 to $1,000,000,000 (TBD?) x TBD%
-BIT should be added to BGI
+GAT should be from $0 to $1,000,000,000 (TBD?) x TBD%  
+BIT should be added to BGI  
