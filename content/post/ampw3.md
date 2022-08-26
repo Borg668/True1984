@@ -3,7 +3,7 @@ title: "Building and AutoDriving VR Game Community"
 date: 2022-08-25T20:26:02-04:00
 draft: false
 ---
-Digitizing Union and Shorey Streets
+Digitizing Union and Shorey Street
 
 
 With of Street (Curb to curb):
