@@ -2,3 +2,5 @@ baseURL = "https://www.true1984.com"
 languageCode = "en-us"
 title = "Building a More Perfect World!"
 theme = "mainroad"
+[markup.goldmark.renderer]
+hardWraps = true
