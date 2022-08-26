@@ -5,8 +5,8 @@ draft: false
 ---
 123456789 123456789 132456789 123456789 123456789 123456789  123456789 123456789  
 
-I believe that both Socialism and Capitalism each have their strong points. Why  
-can't we have both? What is wrong with a safety net for those that are not  
+I believe that both Socialism and Capitalism each have their strong points.  
+Why can't we have both? What is wrong with a safety net for those that are not  
 able to succeed in their own right? We can't all be perfect.  
 
 Are you willing to bet that all of your children and their children  
