@@ -9,8 +9,9 @@ I believe that both Socialism and Capitalism each have their strong points.
 Why can't we have both? What is wrong with a safety net for those that are not  
 able to succeed in their own right? We can't all be perfect.  
 
-Are you willing to bet that all of your children and their children  
-will be able to survive on their own? You won't always be there to give  them guidance (or bail them out when things go wrong)
+Are you willing to bet that all of your children and their children will be able  
+to survive on their own? You won't always be there to give  them guidance (or  
+ them out when things go wrong)
 
 
 Hillary may have been right when she said "It takes a Villiage to raise a child"  
