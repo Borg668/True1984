@@ -3,6 +3,7 @@ title: "Digitizing my exact loction using GPS"
 date: 2022-06-28T12:39:33-04:00
 draft: true
 ---
+123456789 123456789 132456789 123456789 123456789 123456789
 Facts:
 Earth Diameter at the Poles:
 Miles: 7907     Kilometers: 12725

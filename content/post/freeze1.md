@@ -3,6 +3,7 @@ title: "When is a Freeze Dryer not a Dehydrator?"
 date: 2022-06-20T10:47:15-04:00
 draft: false
 ---
+123456789 123456789 132456789 123456789 123456789 123456789
 I have a theory I intend to explore.
 
 These "Freeze Dryers" ($$$). that people are buying, are really a "Class" of Dehydrators; a class that does NOT use HEAT to dehydrate.
