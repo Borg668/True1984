@@ -3,7 +3,7 @@ title: "Building a More Perfect World!"
 date: 2022-07-31T11:18:22-04:00
 draft: false
 ---
-123456789 123456789 132456789 123456789 123456789 123456789
+
 I am going to study and develop ideas for creating solutions for making live better for everyone. This includes you!
 
 
