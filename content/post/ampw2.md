@@ -3,7 +3,6 @@ title: "Can Socialism and Capitalism Co-Exist?"
 date: 2022-07-31T12:14:17-04:00
 draft: false
 ---
-123456789 123456789 132456789 123456789 123456789 123456789  123456789 123456789  
 
 I believe that both Socialism and Capitalism each have their strong points.  
 Why can't we have both? What is wrong with a safety net for those that are not  
