@@ -4,7 +4,7 @@ date: 2022-07-31T11:18:22-04:00
 draft: false
 ---
 
-I am going to study and develop ideas for creating solutions for making live better for everyone. This includes you!
+I am going to study and develop ideas for creating solutions for making live better for everyone. This includes you!!!
 
 
 Topics might include encouraging  people to colaborate with opponents to reach a common goal without sacrificing individual principles.
