@@ -3,29 +3,20 @@ title: "A new Game in Town"
 date: 2022-07-31T11:18:22-04:00
 draft: false
 ---
-Starting work on a new RPG game that I hod to develop and distribute on Steam.
+I am starting work on a new RPG game that I have to develop and distribute on Steam.
 
-It will be a "No Adult Left Behind" game that will imbrace the concept that applies the principles of Socialism with the concept that "Everybody Wins" and "too Small to Fail.
+It will be a "No Adult Left Behind" game that will embrace the concept of applying the principles of socialism with the belief that "Everybody Wins" and "Too Small to Fail."
 
-It will give everyon income (currency) in the forme of wages that ill include GAURANTEED Minimum Wage if you are a Liberal (Democrat). or Basic Minimum Income if you are a Conservative (Republican)
+It will give everyone income (currency) in the form of wages that will include a GUARANTEED Minimum Wage if you are a liberal (Democrat), or a Basic Minimum Income if you are a conservative (Republican).
 
-It will Promote Electric Vehicles (discourage fossil fuels)
+It will promote electric vehicles and discourage the use of fossil fuels.
 
-Everyone will use third party Transportation (nobody will drive their own personal vehicle). Transportation could include Uber, Lyft, Commuter /Subway, Commuter Bus, Regional Train, Regional Bus,
+Everyone will use third-party transportation, and personal vehicles will not be allowed. Transportation options could include Uber, Lyft, commuter/subway, commuter bus, regional train, and regional bus.
 
-Air Travel will be Discouraged.
-Currency will be Transformed
-All Currency will be "Digital"
-Banking will be transformed.
-    All banks will transact business through the FRB Network (Federal Reserve Banks)
+Air travel will be discouraged.
+Currency will be digitalized, and banking will be transformed.
+All banks will transact business through the FRB Network (Federal Reserve Banks).
+   
+Taxes will also be transformed. EVERY transaction will include a federal tax (TBD) of 1% to 10%, a state tax (TBD) of 1% to 16%, a local (city/town) tax of 3%, and a transaction fee of 3% (similar to Bitcoin, but paid to the two banks involved in the transaction).
 
-Taxes will be Transformed.
-    EVERY Transaction will include:
-        A Federal Tax (TBD) 1% to 10% ?
-        A State Tax (TBD) 1% to 16% ?
-        A Local (City/Town) Tax 3% ?
-        A Transaction Fee 3% ? (Just like Bitcoin, but paid to the two banks involveed in the Transaction)
-        
-Living Accomodations will be transformed.
-Lifestyles will be transformed
-Healthcare will be transformed
+Living accommodations and lifestyles will be transformed, and healthcare will also be transformed.
