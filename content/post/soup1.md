@@ -5,6 +5,7 @@ draft: false
 ---
 
 <html>
+<p style="text-align: center;">Centered text</p>
 <hr>
 - 1 Quart Glass Jar
 - Two Large Bouillion Cubes
