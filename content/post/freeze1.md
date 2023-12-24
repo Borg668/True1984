@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-These "Freeze Dryers" (which can be quite expensive) that people are buying are really a class of dehydrators that do not use heat to dehydrate.
+These "Freeze Dryers" (which can be quite expensive) that people are buying are really a class of dehydrators that do not use heat to <b>dehydrate</b>.
 
 A good example is from my younger days when we used to help Mum with the laundry in the winter. Back then, we used a clothesline to dry our clothes. In very cold weather, the laundry would freeze to the clothesline, and we sometimes needed to pry the clothes off because they were as rigid as cardboard. However, they were dry.
 
