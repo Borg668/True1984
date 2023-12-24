@@ -6,7 +6,8 @@ draft: false
 <html>
 1984 is coming. Lead, Follow, or get out of the way.
 <B>
+<color=red>
 PREFACE
-</B>
+</color>
 <HR>
 Now What?
