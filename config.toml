@@ -3,5 +3,5 @@ languageCode = "en-us"
 title = "Building a More Perfect World!"
 theme = "mainroad"
 author = "Stephard Loudwater"
-[markup.goldmark.renderer] unsafe = true # Allow HTML in md files
+[markup.goldmark.renderer] safe = true # Allow HTML in md files
 hardWraps = true
