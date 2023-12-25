@@ -19,4 +19,4 @@ All banks will transact business through the FRB Network (Federal Reserve Banks)
    
 Taxes will also be transformed. EVERY transaction will include a federal tax (TBD) of 1% to 10%, a state tax (TBD) of 1% to 16%, a local (city/town) tax of 3%, and a transaction fee of 3% (similar to Bitcoin, but paid to the two banks involved in the transaction).
 
-Living accommodations and lifestyles will be transformed, and healthcare will also be transformed.
+Living accommodations and lifestyles will be transformed, and healthcare will also be transformed.  add one
