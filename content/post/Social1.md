@@ -5,4 +5,4 @@ draft: false
 ---
 1984 is coming. Lead, Follow, or get out of the way.
 
-delete it!
+delete this!!!
