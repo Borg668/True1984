@@ -3,15 +3,11 @@ title: "Rainbow Lentil Soup"
 date: 2022-06-14T09:21:17-04:00
 draft: false
 ---
-
-<html>
-<p style="text-align: center;">Centered text</p>
-<hr>
 - 1 Quart Glass Jar
 - Two Large Bouillion Cubes
 - 1/2 Cup Red Lentels
 - 1/2 Cup Green Lentils
-- 1/2 Cup Golden Lentils
+- 1/2 Cup Golden 
 
 Spices: (in paper cup)
 1 teaspoon Dried Garlic Chips
@@ -32,7 +28,6 @@ In plastic Baggie:
 
 1 Quart Water
 
-</html>
 
 
 
