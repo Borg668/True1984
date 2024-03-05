@@ -20,4 +20,4 @@ when ane electronic call "comes in, it will be ignored if it is not listed in us
 
 When the application is run for the first time, the user MUST add his primary telephone number for his/her Home and/or Business Name.
 
-features will include the ability to clone the users (real Phone) properties as an added measure of validation!
+features will include the ability to clone the users (real Phone) properties as an added measure of validation.
