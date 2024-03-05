@@ -1,5 +1,5 @@
 ---
-title: "Fred's Daily Journal
+title: "Fred's Daily Journal"
 date: 2024-03-5T11:9:58:22-04:00
 draft: false
 ---
