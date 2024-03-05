@@ -5,6 +5,7 @@ draft: false
 ---
 
 today I will add a long term Python project to my todo list:
+Today I will add a long term Python project to my todo list:
 
 Create a Python Porject intitled: Python Local PBX
 
