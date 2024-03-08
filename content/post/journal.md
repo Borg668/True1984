@@ -1,6 +1,6 @@
 ---
 title: "Fred's Daily Journal"
-date: 2024-03-05
+date: 2022-07-31T11:18:22-04:00
 draft: false
 ---
 
