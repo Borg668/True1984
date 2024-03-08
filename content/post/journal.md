@@ -6,6 +6,7 @@ draft: false
 
 Today I will add a long term Python project to my todo list:
 
+
 Create a Python Porject intitled: Python Local PBX
 
 it's goal is to create a standalone PBX for family and friends that will allow people to screen their terminal (python) phone calls to only people I know and want to communicate with outside the triditional phone system.
