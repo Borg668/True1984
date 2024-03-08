@@ -4,7 +4,7 @@ date: 2022-07-31T11:18:22-04:00
 draft: false
 ---
 
-today I will add a long term Python project to my todo list:
+Today I will add a long term Python project to my todo list:
 
 Create a Python Porject intitled: Python Local PBX
 
