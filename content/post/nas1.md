@@ -13,3 +13,19 @@ https://www.amazon.com/GL-iNet-GL-AXT1800-Pocket-Sized-Extender-Repeater/dp/B0B2
 https://youtu.be/jZYbFcQQ3x8?si=w2eaIK9zkIYPmB9h
 
 https://youtu.be/e1lVV0nguZ8?si=FohPJbnAyN8xDH28
+
+Clone Drive for FREE:
+
+https://youtu.be/SY052k5bODA?si=uT7Px3swnWy_opBx
+
+Create WIN 11 Install thumb drive.  FREE
+
+https://www.youtube.com/live/kNsQUYIfnzY?si=CwlXc7ocIF-TB5ba
+
+Learn now to Flash RAM
+
+https://youtu.be/M9ZCjMtthqY?si=owLaPuKwGAHa6Rw2
+
+Install GrapheneOS:
+
+https://youtu.be/nHxnjcx_G34?si=dXOrWsRlkVavRz6F
